@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
 /* General Styles */
 :root {
     /* --primary-color: #5b4beb; */
@@ -1002,3 +1005,9 @@ Purple tones */
     object-fit: cover;
     border: 2px solid #ccc; /* optional: border */
   }
+  .thank-you-message {
+  font-family: 'Dancing Script', cursive;
+  font-size: 24px;
+  color: #d7d5d5;
+  }
+
